@@ -12,7 +12,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Nicolas Talabot",
     author_email="nicolas.talabot@gmail.com",
-    url="https://github.com/ntalabot/base_dl_project_structure",
+    url="https://github.com/ntalabot/base_dl_project_struct",
     license='MIT',
     classifiers=[
         "Programming Language :: Python :: 3",

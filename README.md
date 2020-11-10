@@ -1,4 +1,4 @@
-base_dl_project_structure
+base_dl_project_struct
 ==============================
 
 Basic structure for a Deep Learning project repository.
