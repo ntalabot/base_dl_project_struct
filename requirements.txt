@@ -1,9 +1,5 @@
-# local package (installed as "src", so best used in virtual or conda env)
--e .
-
 # external requirements
+imageio
 numpy
 matplotlib
 notebook
-torch
-torchvision

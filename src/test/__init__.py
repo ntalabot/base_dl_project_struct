@@ -1,2 +1,3 @@
 # Load subpackages in current namespace
-from . import images
+from . import metric
+from .test import *
